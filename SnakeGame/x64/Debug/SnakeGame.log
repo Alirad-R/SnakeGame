@@ -1,0 +1,16 @@
+﻿  SnakeGame.cpp
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(259,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(259,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(271,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(271,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(283,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(283,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(721,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(721,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(733,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(733,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(744,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(744,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(756,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\SnakeGame\SnakeGame.cpp(756,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SnakeGame.vcxproj -> C:\Users\alira\OneDrive\Desktop\Visual_studio_projects\Cpp\SnakeGame\SnakeGame\x64\Debug\SnakeGame.exe
